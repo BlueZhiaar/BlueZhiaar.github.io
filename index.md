@@ -7,3 +7,21 @@
 - BlueZhiaar
 - 北海道札幌市
 - ホームページ作成、JavaScript、VBA、Unityなど勉強中です。
+
+
+# Skills
+- OS（Windows,Ubuntu）
+- Languages（JavaScript,C,C#,VBA）
+- Engine,Frameworks (Node.js)
+- Tool,MiddleWare（Unity）
+- 資格、免許（ITパスポート）
+
+# Works
+- [GitHub](https://github.com/BlueZhiaar)
+- 作った作品
+ 
+# Contact
+
+
+# History
+
