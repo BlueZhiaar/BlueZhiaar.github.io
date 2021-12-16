@@ -24,6 +24,9 @@
 - [SketchBook](https://www.openprocessing.org/sketch/961801)
 - [Dancing Rectangular](https://www.openprocessing.org/sketch/959865)
 
+# 書き物
+[ IoT技術によってより確実に起床する](https://yellowerable.kagome-kagome.com/zakki/%E7%A7%81%E3%81%8C%E6%9C%9D%E8%B5%B7%E3%81%8D%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8)
+
 
  
 # Contact
