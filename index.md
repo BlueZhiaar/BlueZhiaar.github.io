@@ -19,9 +19,9 @@
 
 - 最近 [悪士多龍のページ](https://www.ashitatatsu.jp/)
 
-- [夏休みの絵日記ジェネレーター（N予備校Webアプリケーションコンテスト2021年夏応募作品）](https://bluezhiaar.github.io/summer-diary/index.html)   [GitHubのURL](https://github.com/BlueZhiaar/summer-diary)
+- [夏休みの絵日記ジェネレーター（N予備校Webアプリケーションコンテスト2021年夏応募作品）](https://bluezhiaar.github.io/summer-diary/index.html)        [GitHubのURL](https://github.com/BlueZhiaar/summer-diary)
 
-- [呟く生き物（N予備校冬の特番応募作品）](https://bluezhiaar.github.io/wanderer/description.html)  [GitHubのURL](https://github.com/BlueZhiaar/wanderer/tree/gh-pages)
+- [呟く生き物（N予備校冬の特番応募作品）](https://bluezhiaar.github.io/wanderer/description.html)        [GitHubのURL](https://github.com/BlueZhiaar/wanderer/tree/gh-pages)
 - [SketchBook](https://www.openprocessing.org/sketch/961801)
 - [Dancing Rectangular](https://www.openprocessing.org/sketch/959865)
 
